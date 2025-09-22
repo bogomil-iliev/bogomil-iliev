@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Bogomil 👋
 
-<!--
-**bogomil-iliev/bogomil-iliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate **AI/ML Engineer** focused on **computer vision** and reliable evaluation.  
+**MSc Artificial Intelligence (Distinction expected)** · **First-Class BSc Computing**.
 
-Here are some ideas to get you started:
+- I build lightweight, deployable models and keep experiments **leakage-safe** (patient-level CV).
+- I care about **explainability** (Grad-CAM++), tidy repos, and reproducible configs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core tools:** Python · PyTorch · scikit-learn · OpenCV · pandas/NumPy · Jupyter · Git/GitHub · Java · MySQL
+
+#### Selected projects
+- **GB Ultrasound (9-class)** — patient-level 5-fold CV, class-imbalance mitigation, Grad-CAM++.  
+  Repo: https://github.com/bogomil-iliev/gb-ultrasound-multiclass-cv
+- **QC-first Ultrasound Classifier** — blur/contrast/noise gates, CLAHE/NL-Means, mixed precision.  
+  Repo: https://github.com/bogomil-iliev/ultrasound-qc-classifier
+- **Brain MRI U-Net** — medical image segmentation (Dice/IoU).  
+  Repo: https://github.com/bogomil-iliev/brain-mri-unet-segmentation
+- **Vehicle Rental (Java/MySQL)** — RBAC + conflict-free scheduling, DAO persistence.  
+  Repo: https://github.com/bogomil-iliev/vehicle-rental-system-java-mysql
+- **MURA Hand (DenseNet)** — study-level pipeline with per-study aggregation.  
+  Repo: https://github.com/bogomil-iliev/mura-hand-abnormality-densenet
+- **House Prices** — CRISP-DM workflow, baseline vs tree models (RMSE/MAE/R²).  
+  Repo: https://github.com/bogomil-iliev/house-price-prediction-ml
+
+**Contact:** · https://linkedin.com/in/bogomil-iliev
