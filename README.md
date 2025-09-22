@@ -6,7 +6,7 @@ Graduate **AI/ML Engineer** focused on **computer vision** and reliable evaluati
 - I build lightweight, deployable models and keep experiments **leakage-safe** (patient-level CV).
 - I care about **explainability** (Grad-CAM++), tidy repos, and reproducible configs.
 
-**Core tools:** Python · PyTorch · scikit-learn · OpenCV · pandas/NumPy · Jupyter · Git/GitHub · Java · MySQL
+**Core tools:** Python · PyTorch · scikit-learn · OpenCV · pandas/NumPy · Jupyter · Google Colab · Git/GitHub · Java · MySQL
 
 #### Selected projects
 - **GB Ultrasound (9-class)** — patient-level 5-fold CV, class-imbalance mitigation, Grad-CAM++.  
