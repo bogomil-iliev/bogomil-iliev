@@ -1,7 +1,7 @@
 ### Hi, I'm Bogomil 👋
 
 Graduate **AI/ML Engineer** focused on **computer vision** and reliable evaluation.  
-**MSc Artificial Intelligence (Distinction expected)** · **First-Class BSc Computing**.
+**MSc Artificial Intelligence (Distinction)** · **First-Class BSc Computing**.
 
 - I build lightweight, deployable models and keep experiments **leakage-safe** (patient-level CV).
 - I care about **explainability** (Grad-CAM++), tidy repos, and reproducible configs.
