@@ -20,6 +20,6 @@ Graduate **AI/ML Engineer** focused on **computer vision** and reliable evaluati
 - **MURA Hand (DenseNet)** — study-level pipeline with per-study aggregation.  
   Repo: https://github.com/bogomil-iliev/mura-hand-densenet-study
 - **House Prices** — CRISP-DM workflow, baseline vs tree models (RMSE/MAE/R²).  
-  Repo: https://github.com/bogomil-iliev/house-price-prediction-ml
+  Repo: https://github.com/bogomil-iliev/bolton-house-prices-crispdm-r
 
 **Contact:** · https://linkedin.com/in/bogomil-iliev
