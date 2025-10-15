@@ -21,5 +21,7 @@ Graduate **AI/ML Engineer** focused on **computer vision** and reliable evaluati
   Repo: https://github.com/bogomil-iliev/mura-hand-densenet-study
 - **House Prices** — CRISP-DM workflow, baseline vs tree models (RMSE/MAE/R²).  
   Repo: https://github.com/bogomil-iliev/bolton-house-prices-crispdm-r
+- **Gold Prices** — Gold price forecasting in INR using Multivariate Linear Regression vs Decision Tree (quantile transform).
+  Repo: https://github.com/bogomil-iliev/gold-price-ml/
 
 **Contact:** · https://linkedin.com/in/bogomil-iliev
